@@ -1,0 +1,395 @@
+2020-11-28 17:51:55,409:INFO:Initializing load_model()
+2020-11-28 17:51:55,409:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-28 17:52:21,938:INFO:Initializing load_model()
+2020-11-28 17:52:21,938:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 13:25:05,845:INFO:Initializing load_model()
+2020-11-30 13:25:05,856:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 13:26:19,315:INFO:Initializing load_model()
+2020-11-30 13:26:19,317:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 13:45:08,598:INFO:Initializing load_model()
+2020-11-30 13:45:08,601:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 13:45:22,596:INFO:Initializing load_model()
+2020-11-30 13:45:22,598:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 13:55:56,778:INFO:Initializing load_model()
+2020-11-30 13:55:56,779:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 13:57:01,826:INFO:Initializing load_model()
+2020-11-30 13:57:01,828:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 13:57:22,269:INFO:Initializing load_model()
+2020-11-30 13:57:22,269:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 13:57:31,999:INFO:Initializing load_model()
+2020-11-30 13:57:31,999:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 13:57:36,804:INFO:Initializing load_model()
+2020-11-30 13:57:36,805:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 13:57:59,268:INFO:Initializing load_model()
+2020-11-30 13:57:59,269:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 13:57:59,506:INFO:Initializing predict_model()
+2020-11-30 13:57:59,507:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='left')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(bootstrap=False, class_weight={},
+                                        criterion='entropy', max_depth=5,
+                                        max_features=1.0,
+                                        min_impurity_decrease=0.0002,
+                                        min_samples_leaf=5,
+                                        min_samples_split=10, n_estimators=150,
+                                        n_jobs=-1, random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-30 13:57:59,507:INFO:Checking exceptions
+2020-11-30 13:57:59,507:INFO:Preloading libraries
+2020-11-30 13:58:30,200:INFO:Initializing load_model()
+2020-11-30 13:58:30,201:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 13:58:33,327:INFO:Initializing load_model()
+2020-11-30 13:58:33,332:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 13:58:33,597:INFO:Initializing predict_model()
+2020-11-30 13:58:33,598:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='left')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(bootstrap=False, class_weight={},
+                                        criterion='entropy', max_depth=5,
+                                        max_features=1.0,
+                                        min_impurity_decrease=0.0002,
+                                        min_samples_leaf=5,
+                                        min_samples_split=10, n_estimators=150,
+                                        n_jobs=-1, random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-30 13:58:33,599:INFO:Checking exceptions
+2020-11-30 13:58:33,600:INFO:Preloading libraries
+2020-11-30 14:09:40,586:INFO:Initializing load_model()
+2020-11-30 14:09:40,587:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:09:44,691:INFO:Initializing load_model()
+2020-11-30 14:09:44,693:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:09:44,905:INFO:Initializing predict_model()
+2020-11-30 14:09:44,906:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='left')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(bootstrap=False, class_weight={},
+                                        criterion='entropy', max_depth=5,
+                                        max_features=1.0,
+                                        min_impurity_decrease=0.0002,
+                                        min_samples_leaf=5,
+                                        min_samples_split=10, n_estimators=150,
+                                        n_jobs=-1, random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-30 14:09:44,907:INFO:Checking exceptions
+2020-11-30 14:09:44,908:INFO:Preloading libraries
+2020-11-30 14:09:56,692:INFO:Initializing load_model()
+2020-11-30 14:09:56,696:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:10:00,113:INFO:Initializing load_model()
+2020-11-30 14:10:00,118:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:10:00,412:INFO:Initializing predict_model()
+2020-11-30 14:10:00,413:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='left')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(bootstrap=False, class_weight={},
+                                        criterion='entropy', max_depth=5,
+                                        max_features=1.0,
+                                        min_impurity_decrease=0.0002,
+                                        min_samples_leaf=5,
+                                        min_samples_split=10, n_estimators=150,
+                                        n_jobs=-1, random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-30 14:10:00,413:INFO:Checking exceptions
+2020-11-30 14:10:00,413:INFO:Preloading libraries
+2020-11-30 14:11:41,678:INFO:Initializing load_model()
+2020-11-30 14:11:41,682:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:11:44,219:INFO:Initializing load_model()
+2020-11-30 14:11:44,222:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:11:44,442:INFO:Initializing predict_model()
+2020-11-30 14:11:44,442:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='left')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(bootstrap=False, class_weight={},
+                                        criterion='entropy', max_depth=5,
+                                        max_features=1.0,
+                                        min_impurity_decrease=0.0002,
+                                        min_samples_leaf=5,
+                                        min_samples_split=10, n_estimators=150,
+                                        n_jobs=-1, random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-30 14:11:44,443:INFO:Checking exceptions
+2020-11-30 14:11:44,443:INFO:Preloading libraries
+2020-11-30 14:12:35,350:INFO:Initializing load_model()
+2020-11-30 14:12:35,352:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:12:57,870:INFO:Initializing load_model()
+2020-11-30 14:12:57,872:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:13:00,878:INFO:Initializing load_model()
+2020-11-30 14:13:00,880:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:13:01,160:INFO:Initializing predict_model()
+2020-11-30 14:13:01,160:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='left')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(bootstrap=False, class_weight={},
+                                        criterion='entropy', max_depth=5,
+                                        max_features=1.0,
+                                        min_impurity_decrease=0.0002,
+                                        min_samples_leaf=5,
+                                        min_samples_split=10, n_estimators=150,
+                                        n_jobs=-1, random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-30 14:13:01,162:INFO:Checking exceptions
+2020-11-30 14:13:01,162:INFO:Preloading libraries
+2020-11-30 14:14:04,567:INFO:Initializing load_model()
+2020-11-30 14:14:04,569:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:14:08,939:INFO:Initializing load_model()
+2020-11-30 14:14:08,945:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:14:09,268:INFO:Initializing predict_model()
+2020-11-30 14:14:09,269:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='left')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(bootstrap=False, class_weight={},
+                                        criterion='entropy', max_depth=5,
+                                        max_features=1.0,
+                                        min_impurity_decrease=0.0002,
+                                        min_samples_leaf=5,
+                                        min_samples_split=10, n_estimators=150,
+                                        n_jobs=-1, random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-30 14:14:09,270:INFO:Checking exceptions
+2020-11-30 14:14:09,271:INFO:Preloading libraries
+2020-11-30 14:44:48,362:INFO:Initializing load_model()
+2020-11-30 14:44:48,365:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:44:55,408:INFO:Initializing load_model()
+2020-11-30 14:44:55,409:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:44:55,634:INFO:Initializing predict_model()
+2020-11-30 14:44:55,636:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='left')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(bootstrap=False, class_weight={},
+                                        criterion='entropy', max_depth=5,
+                                        max_features=1.0,
+                                        min_impurity_decrease=0.0002,
+                                        min_samples_leaf=5,
+                                        min_samples_split=10, n_estimators=150,
+                                        n_jobs=-1, random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-30 14:44:55,638:INFO:Checking exceptions
+2020-11-30 14:44:55,638:INFO:Preloading libraries
+2020-11-30 14:45:07,350:INFO:Initializing load_model()
+2020-11-30 14:45:07,351:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:45:07,510:INFO:Initializing load_model()
+2020-11-30 14:45:07,511:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:45:09,647:INFO:Initializing load_model()
+2020-11-30 14:45:09,652:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:45:09,917:INFO:Initializing predict_model()
+2020-11-30 14:45:09,918:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='left')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(bootstrap=False, class_weight={},
+                                        criterion='entropy', max_depth=5,
+                                        max_features=1.0,
+                                        min_impurity_decrease=0.0002,
+                                        min_samples_leaf=5,
+                                        min_samples_split=10, n_estimators=150,
+                                        n_jobs=-1, random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-30 14:45:09,920:INFO:Checking exceptions
+2020-11-30 14:45:09,920:INFO:Preloading libraries
+2020-11-30 14:45:18,713:INFO:Initializing load_model()
+2020-11-30 14:45:18,719:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:45:18,907:INFO:Initializing load_model()
+2020-11-30 14:45:18,908:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:45:19,457:INFO:Initializing load_model()
+2020-11-30 14:45:19,458:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:45:19,600:INFO:Initializing load_model()
+2020-11-30 14:45:19,600:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:45:20,196:INFO:Initializing load_model()
+2020-11-30 14:45:20,197:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:45:20,380:INFO:Initializing load_model()
+2020-11-30 14:45:20,381:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:45:20,945:INFO:Initializing load_model()
+2020-11-30 14:45:20,946:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:45:21,088:INFO:Initializing load_model()
+2020-11-30 14:45:21,088:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:45:21,261:INFO:Initializing load_model()
+2020-11-30 14:45:21,262:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:45:26,128:INFO:Initializing load_model()
+2020-11-30 14:45:26,129:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:45:32,139:INFO:Initializing load_model()
+2020-11-30 14:45:32,140:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:45:35,029:INFO:Initializing load_model()
+2020-11-30 14:45:35,031:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:45:35,238:INFO:Initializing load_model()
+2020-11-30 14:45:35,238:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:45:36,553:INFO:Initializing load_model()
+2020-11-30 14:45:36,559:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-11-30 14:45:36,799:INFO:Initializing predict_model()
+2020-11-30 14:45:36,800:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='left')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(bootstrap=False, class_weight={},
+                                        criterion='entropy', max_depth=5,
+                                        max_features=1.0,
+                                        min_impurity_decrease=0.0002,
+                                        min_samples_leaf=5,
+                                        min_samples_split=10, n_estimators=150,
+                                        n_jobs=-1, random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-11-30 14:45:36,802:INFO:Checking exceptions
+2020-11-30 14:45:36,803:INFO:Preloading libraries
+2020-12-05 09:35:13,607:INFO:Initializing load_model()
+2020-12-05 09:35:13,632:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-12-05 09:39:24,628:INFO:Initializing load_model()
+2020-12-05 09:39:24,629:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-12-05 09:39:32,555:INFO:Initializing load_model()
+2020-12-05 09:39:32,559:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-12-05 09:39:41,323:INFO:Initializing load_model()
+2020-12-05 09:39:41,323:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-12-05 09:39:49,526:INFO:Initializing load_model()
+2020-12-05 09:39:49,527:INFO:load_model(model_name=Final_model, platform=None, authentication=None, verbose=True)
+2020-12-05 09:39:49,768:INFO:Initializing predict_model()
+2020-12-05 09:39:49,769:INFO:predict_model(estimator=Pipeline(steps=[('dtypes',
+                 DataTypes_Auto_infer(ml_usecase='classification',
+                                      target='left')),
+                ('imputer',
+                 Simple_Imputer(categorical_strategy='not_available',
+                                fill_value_categorical=None,
+                                fill_value_numerical=None,
+                                numeric_strategy='mean',
+                                target_variable=None)),
+                ('new_levels1',
+                 New_Catagorical_Levels_in_TestData(replacement_strategy='least '
+                                                                         'frequent',
+                                                    target...
+                ('clean_names', Clean_Colum_Names()),
+                ('feature_select', 'passthrough'), ('fix_multi', 'passthrough'),
+                ('dfs', 'passthrough'), ('pca', 'passthrough'),
+                ['trained_model',
+                 RandomForestClassifier(bootstrap=False, class_weight={},
+                                        criterion='entropy', max_depth=5,
+                                        max_features=1.0,
+                                        min_impurity_decrease=0.0002,
+                                        min_samples_leaf=5,
+                                        min_samples_split=10, n_estimators=150,
+                                        n_jobs=-1, random_state=123)]]), probability_threshold=None, encoded_labels=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2020-12-05 09:39:49,769:INFO:Checking exceptions
+2020-12-05 09:39:49,769:INFO:Preloading libraries
